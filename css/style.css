@@ -18,3 +18,11 @@ nav a{
 .card-w-bg{
     background-color: #7D71D3;
 }
+
+.card {
+    border: none;
+}
+
+.third{
+    background-image: url("http://demo.themefisher.com/themefisher/lifetrakr/images/backgrounds/shape-overlay-bg.jpg");
+}
