@@ -1,0 +1,12 @@
+.first{
+    background-image: url("http://demo.themefisher.com/themefisher/lifetrakr/images/backgrounds/banner-bg.jpg");
+}
+
+header{
+    background-color: #796ECB;
+}
+
+nav a{
+    text-decoration: none;
+    color: white;
+}
