@@ -81,3 +81,29 @@ span{
     
 }
 
+.eight{
+    background-image: url("http://demo.themefisher.com/themefisher/lifetrakr/images/backgrounds/shape-overlay-bg.jpg");
+}
+
+.input-group a{
+    padding: 15px;
+    color: white;
+    background-color: #7D71D3;
+}
+
+input[type=text]{
+    padding-bottom: 50px;
+}
+
+footer{
+    background-color: #7D71D3;
+}
+
+footer a{
+    color:white;
+    text-decoration: none;
+    margin: 10px;
+}
+
+
+
