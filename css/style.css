@@ -74,7 +74,7 @@ span{
 
 .item{
     margin-top: 50px;
-   padding: 50px 100px;
+    padding: 50px 100px;
     color: white;
     background-color:#7D83DE ;
     border-radius: 15px;
@@ -103,6 +103,12 @@ footer a{
     color:white;
     text-decoration: none;
     margin: 10px;
+}
+
+.round{
+    width: 155px;
+    height: 155px;
+    border-radius: 50%;
 }
 
 
