@@ -19,10 +19,65 @@ nav a{
     background-color: #7D71D3;
 }
 
-.card {
+/* .card {
     border: none;
-}
+} */
 
 .third{
     background-image: url("http://demo.themefisher.com/themefisher/lifetrakr/images/backgrounds/shape-overlay-bg.jpg");
 }
+
+li{
+    border: none;
+    list-style: none;
+}
+
+.borderless{
+    border: none;
+}
+
+.purple{
+    color: #7D83DE;
+    font-size: 36px;
+}
+
+.pink{
+    color: #FF698D;
+    font-size: 36px;
+}
+
+.bg-purple a{
+    padding: 10px 20px;
+    color:white;
+    background-color:#7D83DE ;
+    border-radius: 20px;
+}
+
+.bg-pink a{
+    padding: 10px 20px;
+    color:white;
+    background-color:#FF698D ;
+    border-radius: 20px;
+}
+span{
+    font-size: initial;
+    color: black;
+}
+
+.fifth{
+    background-image: url("http://demo.themefisher.com/themefisher/lifetrakr/images/backgrounds/shape-overlay-bg.jpg");
+}
+
+.fourth{
+    padding-bottom: 100px;
+}
+
+.item{
+    margin-top: 50px;
+   padding: 50px 100px;
+    color: white;
+    background-color:#7D83DE ;
+    border-radius: 15px;
+    
+}
+
